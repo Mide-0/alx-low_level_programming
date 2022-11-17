@@ -7,7 +7,7 @@
  *
  * Rteurn: void
  */
-void print_name(char Olamide, void (*f)(char *Olamide))
+void print_name(char Olamide, void (*f)(char *Olamidie))
 {
 	if (name != NULL && f != NULL)
 
